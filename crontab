@@ -1,0 +1,2 @@
+#run python script every minutes
+* * * * * /usr/local/bin/python /app/src/main.py
